@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with Fullstack Web and Mobile Developers.
 - 🤔 I’m looking for help with Open source Contribution.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: <b>Never Give</b>
+- ⚡ Support : <b><i>"Never give up, do your best, do whatever you want, be the best version of yourself"</i></b>
 
 <br/><br/>
 
@@ -54,10 +54,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.ronypermadi.com"><img src="https://img.shields.io/badge/-ronypermadi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ronypermadi"><img src="https://img.shields.io/badge/-Rony%20Permadi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/ronypermadi1"><img src="https://img.shields.io/badge/-@ronypermadi1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/rony.permadi"><img src="https://img.shields.io/badge/-@rony.permadi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://cyberprogrammingcenter.blogspot.com/"><img src="https://img.shields.io/badge/-pututdev.my.id-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/putut-priambodo-19b739225/"><img src="https://img.shields.io/badge/-Putut%20Priambodo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/pututdev/"><img src="https://img.shields.io/badge/-@pututdev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://pututdev.netlify.app/"><img src="https://img.shields.io/badge/-Netlify Apps-1877F2?style=flat&logo=netlify&logoColor=white"/></a>
 </p>
 
 -----
