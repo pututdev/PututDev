@@ -1,5 +1,4 @@
 ### Hi I'm Putut Priambodo👋
-### Purworejo, Central Java, Indonesia 🖥️🪪📈
 
 <img align="right" src="https://github.com/PututDev/PututDev/blob/master/vizualization.gif" width="500" height="300" style="transform: rotateY(180deg);" />
 
