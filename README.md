@@ -43,11 +43,20 @@
 
 ---
 
+<details>
+  <summary><b> Profile Views 👁️</b></summary>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=pututdev6&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</details>
+
+ ![trophy](https://github-profile-trophy.vercel.app/?username=pututdev&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  <br ><br >
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/PututDev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pututdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=priambodoputut557@gmail.com&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pututdev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
