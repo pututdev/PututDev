@@ -65,7 +65,7 @@
 <a href="https://pututdev.netlify.app/"><img src="https://img.shields.io/badge/-Netlify Apps-1877F2?style=flat&logo=netlify&logoColor=white"/></a>
 </p>
 
-<p align="center"><img src="https://i.top4top.io/p_2717y9pfu1.png" width="200px" height="200px" style="border-radius: 100px;"></p>
+<p align="center"><img src="https://g.top4top.io/p_2999t6gc91.png" width="200px" height="200px" style="border-radius: 100px;"></p>
 
 -----
 Credits: [Putut Priambodo](https://github.com/PututDev)
