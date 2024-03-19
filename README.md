@@ -1,5 +1,5 @@
 <h1 align="center"> &nbsp;&#10022; Hi I'm Putut Priambodo👋  &nbsp;&#10022;</h1>
-<br><br><br>
+<br><br>
 <div>
   <div>
     <img src="./assets/image/haruhiro.png" align="left">
@@ -20,7 +20,7 @@
   </div>
 </div>
 
-<br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ### 🛠 &nbsp;Languages & Tools I Know...
 
@@ -95,9 +95,8 @@
   </p>
  </div>
 </div>
-<br><br><br><br><br>
-
-<p align="right"><img src="https://g.top4top.io/p_2999t6gc91.png" width="300px" height="300px" style="border-radius: 100px;"></p>
+<br><br><br><br>
+<p align="right"><img src="https://g.top4top.io/p_2999t6gc91.png" width="250px" height="250px" style="border-radius: 100px;"></p>
 <br><br>
 Credits: 
 <br>
