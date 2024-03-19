@@ -1,19 +1,27 @@
 ### Hi I'm Putut Priambodo👋
 
-<img align="right" src="https://github.com/PututDev/PututDev/blob/master/vizualization.gif" width="500" height="300" style="transform: rotateY(180deg);" />
+<br>
+<div>
+  <div>
+    <img src="./assets/image/haruhiro.png" align="left">
+    <p align="left">
+      <br>
+      &nbsp;&#10022; 🔭 I’m currently working on Backend Development
+      <br><br>
+      &nbsp;&#10022; 🌱 I’m currently learning Cyber Security.
+      <br><br>
+      &nbsp;&#10022; 👯 I’m looking to collaborate with Fullstack Web and Mobile Developers.
+      <br><br>
+      &nbsp;&#10022; 🤔 I’m looking for help with Open source Contribution.
+      <br><br>
+      &nbsp;&#10022; 😄 Pronouns: He/Him
+      <br><br>
+     &nbsp;&#10022; ⚡ Support : <b><i>"Never give up, do your best, do whatever you want, be the best version of yourself"</i></b>
+    </p>
+  </div>
+</div>
 
----
-
-- 🔭 I’m currently working on Backend Development
-- 🌱 I’m currently learning Cyber Security.
-- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 😄 Pronouns: He/Him
-- ⚡ Support : <b><i>"Never give up, do your best, do whatever you want, be the best version of yourself"</i></b>
-
-<br/><br/>
-
----
+<br><br><br><br>
 
 ### 🛠 &nbsp;Languages & Tools I Know...
 
@@ -63,15 +71,34 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://cyberprogrammingcenter.blogspot.com/"><img src="https://img.shields.io/badge/-pututdev.my.id-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/putut-priambodo-19b739225/"><img src="https://img.shields.io/badge/-Putut%20Priambodo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/pututdev/"><img src="https://img.shields.io/badge/-@pututdev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://pututdev.netlify.app/"><img src="https://img.shields.io/badge/-Netlify Apps-1877F2?style=flat&logo=netlify&logoColor=white"/></a>
-</p>
+<div>
+ <div>
+  <img src="./assets/image/mary.png" align="left">
+  <p align="right">
+
+   &nbsp;
+   
+   &nbsp;
+    
+   &nbsp;&#10022; Feel free to reach me at: &#10022;
+
+   &nbsp; 
+   <a href="https://discord.com/users/1122382759990657044" target="_blank"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+   <a href="https://cyberprogrammingcenter.blogspot.com/"><img src="https://img.shields.io/badge/-pututdev.my.id-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/putut-priambodo-19b739225/"><img src="https://img.shields.io/badge/-Putut%20Priambodo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+   <a href="https://www.instagram.com/pututdev/"><img src="https://img.shields.io/badge/-@pututdev-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+   <a href="https://pututdev.netlify.app/"><img src="https://img.shields.io/badge/-Netlify Apps-1877F2?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+
+   &nbsp;&#10022; I ussualy use Discord for chatting with friends.
+   
+   &nbsp;&#10022; I use Instagram for uploading my drawing content.
+   
+  </p>
+ </div>
+</div>
+
 
 <p align="center"><img src="https://g.top4top.io/p_2999t6gc91.png" width="200px" height="200px" style="border-radius: 100px;"></p>
-
 -----
 Credits: [Putut Priambodo](https://github.com/PututDev)
 
