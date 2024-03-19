@@ -1,6 +1,5 @@
-### Hi I'm Putut Priambodo👋
-
-<br>
+<h1 align="center"> &nbsp;&#10022; Hi I'm Putut Priambodo👋  &nbsp;&#10022;</h1>
+<br><br><br>
 <div>
   <div>
     <img src="./assets/image/haruhiro.png" align="left">
@@ -91,15 +90,17 @@
 
    &nbsp;&#10022; I ussualy use Discord for chatting with friends.
    
-   &nbsp;&#10022; I use Instagram for uploading my drawing content.
+   &nbsp;&#10022; I use LinkedIn to join extraordinary projects and also increase my teammate connections .
    
   </p>
  </div>
 </div>
+<br><br><br><br><br>
 
-
-<p align="center"><img src="https://g.top4top.io/p_2999t6gc91.png" width="200px" height="200px" style="border-radius: 100px;"></p>
------
-Credits: [Putut Priambodo](https://github.com/PututDev)
+<p align="right"><img src="https://g.top4top.io/p_2999t6gc91.png" width="300px" height="300px" style="border-radius: 100px;"></p>
+<br><br>
+Credits: 
+<br>
+[Putut Priambodo](https://github.com/PututDev)
 
 Last Edited on: 19/02/2023
