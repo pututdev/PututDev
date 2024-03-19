@@ -100,7 +100,7 @@
  <img src="https://g.top4top.io/p_2999t6gc91.png" width="150px" height="150px" style="border-radius: 100px;" align="left">
   <p align="right">
     
-   &nbsp;&#10022; Develop by : Putut Priambodo (https://github.com/PututDev)
+   &nbsp;&#10022; Developed by : Putut Priambodo (https://github.com/PututDev)
    <br><br>
    &nbsp;&#10022; Last Edited on: 19/02/2023 &#10022;
   </p>
