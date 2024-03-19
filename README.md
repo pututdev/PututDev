@@ -91,15 +91,19 @@
    &nbsp;&#10022; I ussualy use Discord for chatting with friends.
    
    &nbsp;&#10022; I use LinkedIn to join extraordinary projects and also increase my teammate connections .
-   
   </p>
  </div>
 </div>
-<br><br><br><br>
-<p align="right"><img src="https://g.top4top.io/p_2999t6gc91.png" width="250px" height="250px" style="border-radius: 100px;"></p>
 <br><br>
-Credits: 
-<br>
-[Putut Priambodo](https://github.com/PututDev)
+<div>
+ <div>
+ <img src="https://g.top4top.io/p_2999t6gc91.png" width="150px" height="150px" style="border-radius: 100px;" align="left">
+  <p align="right">
+    
+   &nbsp;&#10022; Develop by : Putut Priambodo (https://github.com/PututDev)
+   <br><br>
+   &nbsp;&#10022; Last Edited on: 19/02/2023 &#10022;
+  </p>
+ </div>
+</div>
 
-Last Edited on: 19/02/2023
