@@ -45,6 +45,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel%20-05122A?style=flat&logo=laravel)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=flat&&labelColor=black&logo=node.js&logoColor=3C873A)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat)
+
 
 
 ---
@@ -61,7 +63,26 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/PututDev">
+<a href="https://github.com/pututdev">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pututdev&theme=radical&border=7F3FBF&background=0D1117" alt="Putut Priambodo Activity github"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/pututdev">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pututdev&theme=radical" alt="Putut@dev GitHub Contribution"/>
+</a>
+</p>
+
+<a>
+<a href="https://github.com/pututdev"><img alt="Putut Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pututdev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/pututdev"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=feyto81&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<br/>
+</a>
+
+### ⚙️ &nbsp;Detail My Activity On Github
+<p align="center">
+<a href="https://github.com/pututdev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pututdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pututdev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
