@@ -108,7 +108,7 @@
    &nbsp;&#10022; Feel free to reach me at: &#10022;
 
    &nbsp; 
-   <a href="https://discord.com/users/1122382759990657044" target="_blank"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+   <a href="https://discord.com/users/1371" target="_blank"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
    <a href="https://cyberprogrammingcenter.blogspot.com/"><img src="https://img.shields.io/badge/-pututdev.my.id-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/putut-priambodo-19b739225/"><img src="https://img.shields.io/badge/-Putut%20Priambodo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
    <a href="https://www.instagram.com/pututdev/"><img src="https://img.shields.io/badge/-@pututdev-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
