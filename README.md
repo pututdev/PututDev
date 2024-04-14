@@ -55,11 +55,6 @@
 
 ---
 
-
-
- ![trophy](https://github-profile-trophy.vercel.app/?username=pututdev&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  <br ><br >
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
