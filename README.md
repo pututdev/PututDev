@@ -1,3 +1,7 @@
+<a href="https://komarev.com/ghpvc/?username=pututdev">
+<img align="right" src="https://komarev.com/ghpvc/?username=pututdev&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
 <h1 align="center"> &nbsp;&#10022; Hi I'm Putut Priambodo👋  &nbsp;&#10022;</h1>
 <br><br>
 <div>
@@ -51,11 +55,7 @@
 
 ---
 
-<details>
-  <summary><b> Statistic Pengunjung 👁️</b></summary>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=pututdev&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-</details>
+
 
  ![trophy](https://github-profile-trophy.vercel.app/?username=pututdev&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   <br ><br >
