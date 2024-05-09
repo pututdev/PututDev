@@ -101,7 +101,7 @@
    <a href="https://discord.com/users/817560492075384834" target="_blank"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
    <a href="https://cyberprogrammingcenter.blogspot.com/"><img src="https://img.shields.io/badge/-My Blogspot-3423A6?style=for-the-badge&logo=Blogger&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/putut-priambodo-19b739225/"><img src="https://img.shields.io/badge/-Putut%20Priambodo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-   <a href="https://www.instagram.com/pututdev/"><img src="https://img.shields.io/badge/-@pututdev-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+   <a href="https://putut.showwcase.com/"><img src="https://img.shields.io/badge/Website-3423A6?style=for-the-badge&logo=Opera&logoColor=white"></a>
    <a href="https://about.me/putut"><img src="https://img.shields.io/badge/About-Me-blue?style=for-the-badge&labelColor=black&logo=google"/></a>
 
    &nbsp;&#10022; I ussualy use Discord for chatting with friends.
