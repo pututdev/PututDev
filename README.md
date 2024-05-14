@@ -59,13 +59,13 @@
 
 <p align="center">
 <a href="https://github.com/pututdev">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pututdev&theme=radical&border=7F3FBF&background=0D1117" alt="Putut Priambodo Activity github"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pututdev&theme=react&fire=7F3FBF&background=0D1117" alt="Putut Priambodo Activity github"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/pututdev">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pututdev&theme=radical" alt="Putut@dev GitHub Contribution"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pututdev&theme=react" alt="Putut@dev GitHub Contribution"/>
 </a>
 </p>
 
