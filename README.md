@@ -2,8 +2,8 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=pututdev&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<h1 align="center"> &nbsp;&#10022; Hi I'm Putut Priambodo👋  &nbsp;&#10022;</h1>
-<br><br>
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&pause=500&size=25&center=false&vCenter=true&width=900&height=50&lines=&#10022+Hi+I'm+Putut+Priambodo+👋;&#10022+I'm+From+Purworejo+👋+,+Indonesia;&#10022+I'm+likes+Programing,+Design,+and+Cybersecurity.;&#10022+I+Like+to+play+Game,+browsing+and+Doing+Security+Testing.;&#10022+I+also+Like+Web+Development+and+Software+Engineer.;;"></h1>
+
 <div>
   <div>
     <img src="./assets/image/haruhiro.png" align="left">
