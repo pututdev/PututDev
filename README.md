@@ -20,8 +20,6 @@
       &nbsp;&#10022; 😄 Pronouns: He/Him
       <br><br>
      &nbsp;&#10022; ⚡ Support : <b><i>"Never give up, do your best, do whatever you want, be the best version of yourself"</i></b>
-      <br><br><br><br><br><br>
-      <img align="right" src = "https://discord.c99.nl/widget/theme-3/817560492075384834.png">
     </p>
   </div>
 </div>
